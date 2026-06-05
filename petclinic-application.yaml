@@ -18,7 +18,7 @@ spec:
     helm:
       parameters:
       - name: "image.tag"
-        value: "5.0.0" # Version de départ
+        value: "5.0.2" # Version de départ
       - name: "app.contextPath"
         value: "/tp11"
   destination:
